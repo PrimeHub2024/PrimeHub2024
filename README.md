@@ -83,7 +83,7 @@ Real-time gas monitoring and alert system integrated with cloud notification ser
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aadesh%20Labde-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aadesh%20Labde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-anil-labde-23907b3b0)
 
 [![Facebook](https://img.shields.io/badge/Facebook-Aadesh%20Labde-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aadesh.labde/)
 
