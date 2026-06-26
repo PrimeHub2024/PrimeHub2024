@@ -1,89 +1,73 @@
-# Hi 👋 I'm Aadesh Labde
+<p align="center">
+  <img src="assets/github_banner.png" alt="Aadesh Labde Banner" width="100%">
+</p>
 
-### Electronics & Telecommunication Engineer | Aspiring Defense Electronics Engineer | Embedded Systems | PCB Design | DRDO Aspirant
+<h1 align="center">Hi 👋 I'm Aadesh Labde</h1>
+
+<h3 align="center">
+Electronics & Telecommunication Engineer • AI Enthusiast • Embedded Systems • PCB Designer
+</h3>
+
+<p align="center">
+Connecting Intelligence. Engineering Impact.
+</p>
 
 ---
-
-I'm a passionate Electronics & Telecommunication Engineering student interested in designing intelligent electronic systems, communication networks, embedded solutions, and defense technologies.
 
 ## 🚀 About Me
 
-- 🎓 "Graduate in Electronics & Telecommunication Engineering (B.E.) from Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi.
-- 🔬 Interested in Defense Electronics, Embedded Systems, PCB Design & R&D
-- 📡 Hands-on experience in Optical Fiber Communication (OFC) & Satellite Communication
-- ⚡ Working on FPGA, Electronics, IoT and PCB Design Projects
-- 🛠️ Passionate about Hardware Design, Circuit Development & Automation
-- 🎯 Career Goal: DRDO Scientist / Defense Electronics Engineer
-- 🌱 Currently learning Embedded Systems, Advanced PCB Design & IoT Systems
+- Graduate in Electronics & Telecommunication Engineering (B.E.) from Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi.
+- Interested in Defense Electronics, Embedded Systems, PCB Design & R&D
+- Hands-on experience in PCB design & Optical fiber splicing.
+- Currently learning Embedded Systems, Advanced PCB Design & IoT Systems
 
 ---
 
-## 💻 Technical Skills
+# 💻 Technical Skills
 
-### Electronics & Embedded Systems
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge)
+## 🔧 Embedded Systems & Hardware Design
 
-### Hardware Design
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad)
-![PCB Design](https://img.shields.io/badge/PCB-Design-green?style=for-the-badge)
-
-### Programming
-![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-### FPGA & HDL
-![VHDL](https://img.shields.io/badge/VHDL-orange?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge)
-
-### Simulation & Analysis
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
+- 🔹 Arduino
+- 🔹 STM32
+- 🔹 PCB Design
+- 🔹 Embedded Systems
 
 ---
 
-## 🔬 Areas of Interest
+## 💻 Languages & Tools
 
-- Embedded Systems
-- PCB Design
-- Optical Fiber Communication
-- FPGA Design
-- IoT Systems
-- Defense Electronics
-- Robotics & Automation
+- 🐍 Python
+- ⚙️ C++
+- 🔬 Proteus
+- 📈 MATLAB
+- 💡 Vivado
+- 📊 Octave GUI
+- 📓 Jupyter Notebook
 
 ---
 
-## 📂 Featured Projects
+## 📂 Academic Projects
 
-### 🚦 Thunderbird Car Tail Light Controller
-FPGA-based implementation of sequential automotive tail light control using VHDL and Nexys 7 FPGA.
+## 🎵 Adaptive Learning Multimodal AI Music Recommendation System
+AI-powered recommendation system utilizing wearable-device data, psychological assessments, and adaptive learning techniques to recommend personalized music for stress reduction and better emotional well-being.
 
 ### 💡 Smart Lighting System with Motion Detection
 STM32-based energy-efficient lighting system utilizing PIR sensors and ambient light detection.
 
-### 🌿 Automated Plant Watering System
-IoT-enabled smart irrigation solution for automated water management.
+### 🚦 Thunderbird Car Tail Light Controller
+FPGA-based implementation of sequential automotive rear tail lamp control using VHDL language and Nexys 7 FPGA controller.
 
-### 📡 Gas Leakage Detection System
-Real-time gas monitoring and alert system integrated with cloud notification services.
-
+### ⚙️ Color Sorting Machine
+An automated color-sorting mechanism powered by an ATmega328P microcontroller. The device utilizes a TCS3200 color sensor to detect RGB light intensity and two micro-servo motors to sort objects into designated bins.
 ---
 
-## 📈 Current Learning
+# 🌐 Connect With Me
 
-- Embedded Systems
-- Advanced PCB Design
-- RF & Microwave Engineering
-- Defense Communication Systems
-
----
-
-## 🌐 Connect With Me
+### 💼 LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aadesh%20Labde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-anil-labde-23907b3b0)
+
+### 📘 Facebook
 
 [![Facebook](https://img.shields.io/badge/Facebook-Aadesh%20Labde-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aadesh.labde/)
 
@@ -92,6 +76,6 @@ Real-time gas monitoring and alert system integrated with cloud notification ser
 
 ---
 
-### ⚡ Motto
-
-**"Connecting Intelligence. Engineering Impact."**
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
