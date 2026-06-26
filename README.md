@@ -9,7 +9,7 @@
 - Hands-on experience in PCB design & Optical fiber splicing.
 - Currently learning Embedded Systems, Advanced PCB Design & IoT Systems
 
-
+---
 
 # 💻 Tech Stack
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
-
+---
 
 ### 🛠 Languages & Tools
 
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Octave_GUI-0790C0?style=for-the-badge&logo=gnuoctave&logoColor=white" />
 </p>
 
+---
 
 ## 📂 Academic Projects
 
@@ -54,7 +55,7 @@ FPGA-based implementation of sequential automotive rear tail lamp control using 
 ### 4. Color Sorting Machine
 An automated color-sorting mechanism powered by an ATmega328P microcontroller. The device utilizes a TCS3200 color sensor to detect RGB light intensity and two micro-servo motors to sort objects into designated bins.
 
-
+---
 
 # 🌐 Connect With Me
 
