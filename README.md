@@ -47,16 +47,16 @@
 
 ## 📂 Academic Projects
 
-### 🎵 Adaptive Learning Multimodal AI Music Recommendation System
+### 1. Adaptive Learning Multimodal AI Music Recommendation System
 AI-powered recommendation system utilizing wearable-device data, psychological assessments, and adaptive learning techniques to recommend personalized music for stress reduction and better emotional well-being.
 
-### 💡 Smart Lighting System with Motion Detection
+### 2. Smart Lighting System with Motion Detection
 STM32-based energy-efficient lighting system utilizing PIR sensors and ambient light detection.
 
-### 🚦 Thunderbird Car Tail Light Controller
+### 3. Thunderbird Car Tail Light Controller
 FPGA-based implementation of sequential automotive rear tail lamp control using VHDL language and Nexys 7 FPGA controller.
 
-### ⚙️ Color Sorting Machine
+### 4. Color Sorting Machine
 An automated color-sorting mechanism powered by an ATmega328P microcontroller. The device utilizes a TCS3200 color sensor to detect RGB light intensity and two micro-servo motors to sort objects into designated bins.
 
 ---
@@ -73,14 +73,11 @@ An automated color-sorting mechanism powered by an ATmega328P microcontroller. T
 <img src="https://img.shields.io/badge/📘%20Facebook-Aadesh%20Labde-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:aadeshlabde30@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-aadeshlabde30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </p>
 
 <p align="center">
-
+  
+📧 **aadeshlabde30@gmail.com**
 📍 **Mumbai, Maharashtra, India**
 
 </p>
