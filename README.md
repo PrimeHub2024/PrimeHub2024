@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/github_banner.png" alt="Aadesh Labde Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋 I'm Aadesh Labde</h1>
 
