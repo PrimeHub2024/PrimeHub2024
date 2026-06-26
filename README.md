@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Aadesh Labde</h1>
 
 
-## 🚀 About Me
+# 🚀 About Me
 
 - Graduate in Electronics & Telecommunication Engineering (B.E.) from Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi.
 - Interested in Defense Electronics, Embedded Systems, PCB Design & R&D
@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Academic Projects
+# 📂 Academic Projects
 
 ### 1. Adaptive Learning Multimodal AI Music Recommendation System
 AI-powered recommendation system utilizing wearable-device data, psychological assessments, and adaptive learning techniques to recommend personalized music for stress reduction and better emotional well-being.
@@ -59,7 +59,7 @@ An automated color-sorting mechanism powered by an ATmega328P microcontroller. T
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/aadesh-anil-labde-23907b3b0">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-Aadesh%20Labde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -71,14 +71,12 @@ An automated color-sorting mechanism powered by an ATmega328P microcontroller. T
 
 </p>
 
-<p align="center">
+<p align="left">
   
 📧 **aadeshlabde30@gmail.com**
 📍 **Mumbai, Maharashtra, India**
 
 </p>
-
-
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
