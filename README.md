@@ -4,14 +4,6 @@
 
 <h1 align="center">Hi 👋 I'm Aadesh Labde</h1>
 
-<h3 align="center">
-Electronics & Telecommunication Engineer • AI Enthusiast • Embedded Systems • PCB Designer
-</h3>
-
-<p align="center">
-Connecting Intelligence. Engineering Impact.
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -23,32 +15,39 @@ Connecting Intelligence. Engineering Impact.
 
 ---
 
-# 💻 Technical Skills
+# 💻 Tech Stack
 
-## 🔧 Embedded Systems & Hardware Design
+### 🔧 Embedded Systems & Hardware Design
 
-- 🔹 Arduino
-- 🔹 STM32
-- 🔹 PCB Design
-- 🔹 Embedded Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,py,cpp,matlab" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Design-009688?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=platformio&logoColor=white" />
+</p>
 
 ---
 
-## 💻 Languages & Tools
+### 🛠 Languages & Tools
 
-- 🐍 Python
-- ⚙️ C++
-- 🔬 Proteus
-- 📈 MATLAB
-- 💡 Vivado
-- 📊 Octave GUI
-- 📓 Jupyter Notebook
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,vscode,git,github,jupyter" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Proteus-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Octave_GUI-0790C0?style=for-the-badge&logo=gnuoctave&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 Academic Projects
 
-## 🎵 Adaptive Learning Multimodal AI Music Recommendation System
+### 🎵 Adaptive Learning Multimodal AI Music Recommendation System
 AI-powered recommendation system utilizing wearable-device data, psychological assessments, and adaptive learning techniques to recommend personalized music for stress reduction and better emotional well-being.
 
 ### 💡 Smart Lighting System with Motion Detection
@@ -59,20 +58,32 @@ FPGA-based implementation of sequential automotive rear tail lamp control using 
 
 ### ⚙️ Color Sorting Machine
 An automated color-sorting mechanism powered by an ATmega328P microcontroller. The device utilizes a TCS3200 color sensor to detect RGB light intensity and two micro-servo motors to sort objects into designated bins.
+
 ---
 
 # 🌐 Connect With Me
 
-### 💼 LinkedIn
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aadesh%20Labde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-anil-labde-23907b3b0)
+<a href="https://www.linkedin.com/in/aadesh-anil-labde-23907b3b0">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Aadesh%20Labde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 📘 Facebook
+<a href="https://www.facebook.com/aadesh.labde/">
+<img src="https://img.shields.io/badge/📘%20Facebook-Aadesh%20Labde-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-[![Facebook](https://img.shields.io/badge/Facebook-Aadesh%20Labde-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aadesh.labde/)
+<a href="mailto:aadeshlabde30@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-aadeshlabde30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📧 Email: aadeshlabde30@gmail.com
-📍 Mumbai, Maharashtra
+</p>
+
+<p align="center">
+
+📍 **Mumbai, Maharashtra, India**
+
+</p>
 
 ---
 
