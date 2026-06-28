@@ -11,32 +11,29 @@
 
 ---
 
-## 💻 Tech Stack
-
-### 🔧 Embedded Systems & Hardware Design
+# 💻 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,py,cpp,matlab" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,matlab,git,github,vscode,jupyter" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCB%20Design-009688?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nucleo%20Board-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nexys%207%20FPGA-E01F27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=platformio&logoColor=white" />
-</p>
-
----
-
-### 🛠 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,vscode,git,github,jupyter" />
-</p>
-
-<p align="left">
+  <img src="https://img.shields.io/badge/Embedded%20C-283593?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCB%20Design-009688?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eagle%20PCB-F28C00?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-1765F5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proteus-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keil-3949AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Octave_GUI-0790C0?style=for-the-badge&logo=gnuoctave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Octave%20GUI-0790C0?style=for-the-badge&logo=gnuoctave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Command%20Line-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Smith%20Chart-1565C0?style=for-the-badge" />
 </p>
 
 ---
