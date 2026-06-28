@@ -14,20 +14,22 @@
 # 💻 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,arduino,matlab,vscode,git,github,jupyter,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,arduino,matlab,vscode,git,github,linux" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Nucleo%20Board-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-0F4C81?style=for-the-badge&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Internet%20of%20Things-00ACC1?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internet%20of%20Things-00ACC1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nexys%207%20FPGA-E01F27?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Verilog-8E24AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keil%20uVision-3949AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PCB%20Design-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Eagle%20PCB-F28C00?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyEDA-1765F5?style=for-the-badge" />
