@@ -49,11 +49,11 @@ AI-powered recommendation system utilizing wearable-device data, psychological a
 ### 2. Smart Lighting System with Motion Detection
 STM32-based energy-efficient lighting system utilizing PIR sensors and ambient light detection.
 
-### 3. Thunderbird Car Tail Light Controller
-FPGA-based implementation of sequential automotive rear tail lamp control using VHDL language and Nexys 7 FPGA controller.
-
-### 4. Color Sorting Machine
+### 3. Color Sorting Machine
 An automated color-sorting mechanism powered by an ATmega328P microcontroller. The device utilizes a TCS3200 color sensor to detect RGB light intensity and two micro-servo motors to sort objects into designated bins.
+
+### 4. Electronic Notice Board using Arduino
+An Wireless Notice Board Project using Arduino UNO microcontroller with HC-05 Bluetooth Module.
 
 ---
 
