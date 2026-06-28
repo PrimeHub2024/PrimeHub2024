@@ -14,25 +14,28 @@
 # 💻 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,python,matlab,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,c,python,matlab,linux,bash,git,github,vscode,jupyter" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nucleo%20Board-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nexys%207%20FPGA-E01F27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32%20Nucleo-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nexys%207%20FPGA-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20C-283593?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PCB%20Design-009688?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/PCB%20Design-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Eagle%20PCB-F28C00?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyEDA-1765F5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Proteus-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keil-3949AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Octave%20GUI-0790C0?style=for-the-badge&logo=gnuoctave&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Command%20Line-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keil%20uVision-3949AB?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Octave-0790C0?style=for-the-badge&logo=gnuoctave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Smith%20Chart-1565C0?style=for-the-badge" />
 </p>
 
