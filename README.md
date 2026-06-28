@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Verilog-8E24AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keil%20uVision-3949AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PCB%20Design-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Eagle%20PCB-F28C00?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyEDA-1765F5?style=for-the-badge" />
