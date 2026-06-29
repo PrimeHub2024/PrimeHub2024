@@ -12,6 +12,24 @@
 
 ---
 
+## 💼 Internship Experience
+
+### 1. Bharat Sanchar Nigam Limited (BSNL) - Internship Trainee
+Learned Satellite Communication and Optical Fibre Cables (OFC).
+Observed optical fiber splicing, cable testing, and telecommunication infrastructure deployment. 
+Gained hands-on experience in Optical Fibre Splicing Technique.
+
+### 2. Fr. Conceicao Rodrigues Institute of Technology - Internship Trainee 
+Learned STM controllers and STM32CubeIDE software tool. 
+Worked on STM32 microcontroller-based embedded system development. 
+Developed small scale fundamentals on Wokwi Simulator and tested hardware interfaces using STM32 development boards.
+
+### 3. Telawne Power Equipments Pvt Ltd - Internship Trainee
+Gained exposure to transformer manufacturing, testing, and quality assurance processes.
+Studied transformer design principles, packaging, and electrical testing procedures.
+
+---
+
 # 💻 Tech Stack & Skills
 
 <p align="left">
