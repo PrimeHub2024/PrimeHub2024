@@ -4,6 +4,7 @@
 
 ## 🚀 About Me
 
+- Aspiring Electronics & Telecom Engineer
 - Graduate in Electronics & Telecommunication Engineering (B.E.) from Fr. C. Rodrigues Institute of Technology (FCRIT), Vashi.
 - Interested in Defense Electronics, Embedded Systems, PCB Design & R&D
 - Hands-on experience in PCB design & Optical fiber splicing.
